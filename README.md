@@ -239,3 +239,6 @@ This repository serves as the official landing page for Turbo Browser. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Turbo Browser today!**
+
+---
+**Last updated:** 2026-09-08 18:12:11 UTC
